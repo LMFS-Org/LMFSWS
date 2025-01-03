@@ -6,7 +6,7 @@ LMFS WorkStation (hereinafter referred to as LMFSWS) is an easy-to-use, small si
 
 ## How to build it from source code?
 ```
-$ git clone https://github.com/Lone-Air/LMFSWS
+$ git clone https://github.com/LMFS-Org/LMFSWS
 $ cd LMFSWS
 $ sudo ./build.sh
 ```
